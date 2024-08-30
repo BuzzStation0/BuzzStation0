@@ -31,7 +31,7 @@
 
 ###
 
-<h3 align="left">🛠 Gostou? Visite nosso website!<br><br> <a href="buzzstation.com.br"> 👀 buzzstation.com.br 👀 </a> </h3> 
+<h3 align="left">🛠 Gostou? Visite nosso website!<br><br> <a href="buzzstation.online"> 👀 buzzstation.online 👀 </a> </h3> 
 
 ### 
 
